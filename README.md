@@ -58,31 +58,19 @@ By analyzing sick leave percentages, the department can pinpoint opportunities t
            *SL % = DIVIDE([SL Count],[Total Working Days],0)
 #### Create Visuals:
 
-Utilize cards to display Presence %, Work From Home %, and Sick Leave %.
-Create table visualizations for Attendance Matrix Overview, Daily Attendance Overview, and Presence %, WFH %, SL % by weekdays.
-Generate an Area Chart for the day-wise visualization of Presence %, WFH %, and Sick Leave %.
+- Utilize cards to display Presence %, Work From Home %, and Sick Leave %.
+- Create table visualizations for Attendance Matrix Overview, Daily Attendance Overview, and Presence %, WFH %, SL % by weekdays.
+- Generate an Area Chart for the day-wise visualization of Presence %, WFH %, and Sick Leave %.
 
 
 ### Learnings from the project
 
 
-* Understand P&L stuff, look at numbers, and figure out how things are going.
+Insights Gained from the Project
 
-* Use special measurements (KPIs) to see how well we're doing in Finance, Sales, Marketing, and Supply Chain.
-
-* Learn a lot about the consumer goods world, figuring out trends, what customers like, and how the industry works.
-
-* Get better at talking and working with important people (stakeholder management).
-
-* Pull out data easily using MySQL and Power Query, making sure all the right info is there.
-
-* Use smart tricks with data (modeling and DAX), making it easier to understand and show.
-
-* Make sure all the data is right in Excel, checking and double-checking.
-
-* Make useful reports in Power BI, showing important stuff in a clear way for better decisions.
-
-
+* Gained insights into Power Query techniques during the project.
+* Enhanced understanding and application of DAX functions.
+* Explored effective usage and manipulation of matrices in the project.
 
 ### Dashboard Overview
 
