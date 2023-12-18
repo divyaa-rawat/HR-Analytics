@@ -63,10 +63,7 @@ By analyzing sick leave percentages, the department can pinpoint opportunities t
 - Generate an Area Chart for the day-wise visualization of Presence %, WFH %, and Sick Leave %.
 
 
-### Learnings from the project
-
-
-Insights Gained from the Project
+### Insights Gained from the Project
 
 * Gained insights into Power Query techniques during the project.
 * Enhanced understanding and application of DAX functions.
