@@ -1,7 +1,7 @@
 # HR Data Analytics
 
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMTJhMWFlOTgtMzA2Mi00MWJkLWExMzEtMmE0YzUyYjQ5ODU1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9                
+### Explore the Dashboard :https://app.powerbi.com/view?r=eyJrIjoiZGVmN2RjNjctNWU3MS00Y2YyLThiMDAtZDM0MzBjNGQ5MjYzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ## Project overview
 
